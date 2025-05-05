@@ -1,7 +1,7 @@
 
 # Hi, I’m @Amelia!
 
-First Class Neuroscience BSc graduate from the University of Bristol, with a strong foundation in computational neuroscience and AI/ML applications in healthcare. Recipient of the prestigious 2024 Snowdon Master's Scholarship and currently preparing two first-author papers for publication.
+First Class Neuroscience BSc graduate from the University of Bristol, with a strong foundation in computational neuroscience and AI/ML applications in healthcare. Recipient of the 2024 Snowdon Master's Scholarship and currently preparing two first-author papers for publication.
 
 ## Professional Experience
 
