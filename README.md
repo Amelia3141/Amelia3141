@@ -1,66 +1,85 @@
+# Hi, I'm @Amelia!
 
-# Hi, I’m @Amelia!
+First Year MPhil/PhD student at UCL Institute of Health Informatics, developing machine learning frameworks for rare disease research. First Class Neuroscience BSc Hons from the University of Bristol. Recipient of the 2024 Snowdon Master's Scholarship and member of the Windsor Fellowship.
 
-First Class Neuroscience BSc graduate from the University of Bristol, with a strong foundation in computational neuroscience and AI/ML applications in healthcare. Recipient of the 2024 Snowdon Master's Scholarship and currently preparing two first-author papers for publication.
+## 🎓 Education
 
-## Professional Experience
+### Health Informatics MPhil/PhD | UCL
+*May 2025 - Present*
+- Developing ML frameworks for understanding EDS-POTS-MCAS disease relationships
+- Large-scale web scraping of StuffThatWorks.com (2.9M members, 110M data points)
+- Implementing multi-modal GARNN architectures for disease trajectory prediction
+- Winner of UCL Digital Health AI Hackathon (April 2025)
 
-### Technology Optimisation Intern | Elsevier - Global Health Markets
+### Neuroscience BSc | University of Bristol
+*2021 - 2024*
+- First Class Honours with PLUS Award
+- Dissertation: "Ivabradine and the Risk of Torsades de Pointes" (84/100)
 
-_June 2024 - August 2024_
+## 💼 Professional Experience
+Research Scientist Intern @ Advai (2025) - Mechanistic interpretability research on bias in medical LLMs using Sparse Autoencoders
+Freelance ML Consultant (2025-Present) - Building AI systems for strategic decision-making with historical case analysis
+Tech Intern @ Elsevier (2024) - Developed bias mitigation tools for Clinical Key AI and RAG systems for medical literature
+Computational Neuroscientist @ Neuro-Bio (2023-2024) - ML/AI drug discovery, achieving 99.98% analysis accuracy and £650k+ cost savings with custom ALzheimer's drug design 
 
-- Pioneered the first Software Development Lifecycle plan using Confluence and Jira APIs (React & Node.js)
-- Led research on racial and gender bias mitigation in Clinical Key AI tool
-- Developed proof-of-concept RAG system for medical paper analysis
+## 🛠️ Technical Skills
 
-### Consultant Computational Neuroscientist | Neuro-Bio Ltd
+**Programming Languages**
+- Python (PyTorch, Pandas, NumPy, SciPy, Django, scikit-learn)
+- JavaScript (React, Node.js, Full-stack development)
+- R (Statistical analysis, ggplot2, tidyverse)
+- MATLAB
+- Version Control: Git, GitHub
 
-_May 2023 - May 2024_
+**Machine Learning & AI**
+- BERT/BioBERT, RAG models, Knowledge Graphs
+- Graph Neural Networks (GNNs), GARNN
+- Mechanistic Interpretability: Sparse Autoencoders, feature clamping
+- XGBoost, Random Forest, SMOTE
 
-- Led in-silico drug development for novel Alzheimer's therapeutic
-- Developed custom AI/ML workflows achieving 99.98% analysis accuracy
-- Implemented ADMET modeling system saving £150k+ in outsourcing costs
-- Conducted antibody research resulting in £500k annual savings
+**Scientific Computing**
+- Molecular Modeling: AutoDock Vina, RoseTTAFold
+- Cheminformatics: RDKit, MOE, QSite
+- Web Scraping: BeautifulSoup, Selenium
 
-### Research Assistant | Mouthy
+## 🏆 Awards & Recognition
 
-_June 2022 - December 2023_
-
-- Full-stack development of health startup website
-- Database development for clinical market research
-- Contributed to successful early-stage VC funding
-
-## Technical Skills
-
-- **Programming:** Python (PyTorch, Django), JavaScript (React, Node.js), R, MATLAB
-- **AI/ML:** BERT, RAG models, Knowledge Graphs, Custom Deep Learning Pipelines
-- **Scientific Computing:** AutoDock Vina, RoseTTAFold, RDKit, MOE, QSite
-- **Languages:** English (Native), Farsi (Fluent), French (Fluent), Italian and Turkish (Conversational)
-
-## Awards & Recognition
-
-- **Snowdon Master's Scholarship (2024)** - £30,000 award for exceptional disabled students
+- **Snowdon Master's Scholarship (2024)** - Scholarship for exceptional students to enable further study in their field of choice & promote inclusivity and change as leaders in their subject area
+- **Digital Health AI Hackathon Winner (2025)** - UCL Faculty competition, developed ScleroDx diagnostic tool
 - **First Place** - Bristol Student Research Festival, Sustainability and Wellbeing Category
-- **PLUS Award** - University of Bristol, for outstanding extracurricular achievements
+- **PLUS Award** - University of Bristol, for 70+ hours of professional development
 
-## Research Highlights
+## 🔬 Research Projects
 
-Currently preparing two first-author papers for publication, including research on "Ivabradine and the Risk of Torsades de Pointes: A Case-Based Analysis" (Grade: 84/100, Viva: 89/100). Developed an open-source tool for systematic reviews of torsadogenic medication, available on [GitHub](https://github.com/Amelia3141).
+### ScleroDx - AI Diagnostic Tool
+- GARNN architecture achieving 79% accuracy on EUSTAR dataset
+- Addresses health equity in rare disease diagnosis
+- Live deployment: https://scleroderma-api.onrender.com/
+- [GitHub Repository](https://github.com/Amelia3141/Hackathon)
 
+### Pharmacovigilance Research
+- BioBERT-based system for automated drug safety analysis
+- Open-access web tool for torsadogenic medication reviews
+- Manuscript in preparation
+- [GitHub Repository](https://github.com/Amelia3141/IvabradineTdP)
 
-# 🗞️ Publications and Posters
+### EDS-Neurodiversity Research
+- Leading research on hypermobility/EDS and neurodiversity links
+- Part of Disability Action Research Kollective
+- Building consensus on diagnostic overlaps
 
-- 2023 - BILT Student Research Festival - (1st place in the Sustainability and Wellbeing Category)
-"The Neurobiology of Ethical Decision Making"
-http://bilt.online/student-research-festival-winning-presentations/ 
+## 📚 Publications and Presentations
 
-- 2024 - Pre-Print 
-A Ghanea, J C Hancox: "Ivabradine and the Risk of Torsades de Pointes: A Case-Based Analysis"
+- **2024** - Manuscript in preparation: "Ivabradine and the Risk of Torsades de Pointes: A Case-Based Analysis"
+- **2023** - Bristol Student Research Festival (1st Place): "The Neurobiology of Ethical Decision Making"
+  - [Winning Presentations](http://bilt.online/student-research-festival-winning-presentations/)
 
-### 📫 Contact Information
-<a href="https://www.linkedin.com/in/amelia-g-b7849423a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" width="150" height="30"></a> &nbsp;
-<a href="https://Amelia3141.github.io"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github" alt="GitHub" width="150" height="30"></a> &nbsp;
+## 🌐 Languages
+English (Native) • Farsi (Fluent) • French (Fluent) • Italian (Conversational) • Turkish (Conversational)
 
-- 📧 **Email:** 
-  - aghanea.gh@gmail.com
-- 📱 **Phone:** +44 7341 384667
+## 📫 Contact Information
+
+<a href="https://www.linkedin.com/in/amelia-g/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" width="150" height="30"></a> &nbsp;
+<a href="https://github.com/Amelia3141"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github" alt="GitHub" width="150" height="30"></a> &nbsp;
+
+- 📧 **Email:** amelia.ghanea-hercock.24@ucl.ac.uk
