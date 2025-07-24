@@ -14,7 +14,7 @@ First Year MPhil/PhD student at UCL Institute of Health Informatics, developing 
 ### Neuroscience BSc | University of Bristol
 *2021 - 2024*
 - First Class Honours with PLUS Award
-- Dissertation: "Ivabradine and the Risk of Torsades de Pointes" (84/100)
+- Dissertation: "Ivabradine and the Risk of Torsades de Pointes" (graded 84, excellent 1st class)
 
 ## 💼 Professional Experience
 Research Scientist Intern @ Advai (2025) - Mechanistic interpretability research on bias in medical LLMs using Sparse Autoencoders
