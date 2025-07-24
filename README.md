@@ -77,9 +77,9 @@ Computational Neuroscientist @ Neuro-Bio (2023-2024) - ML/AI drug discovery, ach
 ## 🌐 Languages
 English (Native) • Farsi (Fluent) • French (Fluent) • Italian (Conversational) • Turkish (Conversational)
 
-## 📫 Contact Information
+## 📫 Contact Information https://www.linkedin.com/in/amelia-g-b7849423a
 
-<a href="https://www.linkedin.com/in/amelia-g/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" width="150" height="30"></a> &nbsp;
+<a href="https://www.linkedin.com/in/amelia-gh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" width="150" height="30"></a> &nbsp;
 <a href="https://github.com/Amelia3141"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github" alt="GitHub" width="150" height="30"></a> &nbsp;
 
 - 📧 **Email:** amelia.ghanea-hercock.24@ucl.ac.uk
